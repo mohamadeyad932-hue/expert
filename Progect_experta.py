@@ -1,3 +1,5 @@
+#tttttttttttttttttttt
+
 import sys
 import webbrowser
 from PyQt6.QtWidgets import *
